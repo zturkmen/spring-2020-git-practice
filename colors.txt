@@ -6,5 +6,7 @@ pink
 orange
 grey
 zuleyha
+purple
+white
 
 
